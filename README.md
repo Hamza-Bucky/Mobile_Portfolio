@@ -1,6 +1,5 @@
 # Mobile_Portfolio
-Creating a Portfolio website for mobile
-Website contains:
-A Front page for the introduction
-Four cards to display previous projects
-About my self page to connect with the user.
+To create a mobile portfolio website.
+1. Include a front page for the introduction.
+2. Add four project display cards.
+3. Create an "about me" page for user connection.
